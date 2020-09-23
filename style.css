@@ -1,0 +1,8 @@
+.blackbox {background-color: black;width: 979px;height: 100%;position: absolute;left: 23%}
+.white_1 {background-color: white;width: 19%;height: 27%;position: absolute;}
+.white_2 {background-color: white;width: 19%;height: 38%;position: absolute;top: 33%}
+.blue {background-color: blue;width: 19%;height: 26%;position: absolute;bottom: 0px}
+.red {background-color: red;width: 78%;height: 71%;position: absolute;top: 0px;right: 0px;}
+.white_3 {background-color: white;width: 67%;height: 26%;position: absolute;bottom: 0px;left: 22%;}
+.white_4 {background-color: white;width: 7%;height: 10%;position: absolute;bottom: 16%;right: 0px;}
+.yellow {background-color: yellow;width: 7%;height: 10%;position: absolute;bottom: 0px;right: 0px;}
